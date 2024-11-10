@@ -6,3 +6,7 @@ dontinline,*.*_thrpt_jmhStub
 inline,org/example/MatrixMultiplicationBenchmarking$Operands.setup
 inline,org/example/MatrixMultiplicationBenchmarking$Operands.tearDown
 inline,org/example/MatrixMultiplicationBenchmarking.multiplicationBasic
+inline,org/example/MatrixMultiplicationBenchmarking.multiplicationWithBlocking
+inline,org/example/MatrixMultiplicationBenchmarking.multiplicationWithCSC
+inline,org/example/MatrixMultiplicationBenchmarking.multiplicationWithCSR
+inline,org/example/MatrixMultiplicationBenchmarking.multiplicationWithLoopUnrolling
